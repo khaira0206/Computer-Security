@@ -1,0 +1,2 @@
+All the file are java files. Import these files in the eclipse. For running a particular component we have to run that component's server. open the file and right click anywhere on the code and then press run as java application. After running the server file we need to run the client file and giving the input if asked at the console. Server and client can be discriminated by the names of the class files.
+
